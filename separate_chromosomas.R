@@ -1,0 +1,7 @@
+
+
+
+for(cromosoma in cromosomas){
+
+    
+}
